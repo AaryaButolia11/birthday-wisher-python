@@ -31,6 +31,10 @@ A simple and customizable Python script that automatically sends birthday wishes
 ## Screenshot of mail recieved 
 ![WhatsApp Image 2025-05-12 at 01 36 22_65044fe1](https://github.com/user-attachments/assets/b85020d6-570a-4444-8647-ccf9b6480019)
 
+## Script runs on cloud daily
+![WhatsApp Image 2025-05-12 at 01 37 15_0fe6c291](https://github.com/user-attachments/assets/005b10a1-2203-4c68-a45f-4a72f782ffa2)
+
+
 
 ---
 ## 🔧 Project Structure
