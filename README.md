@@ -29,7 +29,10 @@ A simple and customizable Python script that automatically sends birthday wishes
 
 ---
 ## Screenshot of mail recieved 
+![WhatsApp Image 2025-05-12 at 01 36 22_65044fe1](https://github.com/user-attachments/assets/b85020d6-570a-4444-8647-ccf9b6480019)
 
+
+---
 ## 🔧 Project Structure
 birthday-wisher/<br>
 │<br>
